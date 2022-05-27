@@ -1875,6 +1875,8 @@ msgid ""
 "Options added here are applied to all backups, but can be overridden in each"
 " individual backup"
 msgstr ""
+"ตัวเลือกที่เพิ่มไว้นี้จะใช้กับข้อมูลสำรองทั้งหมด แต่สามารถแทนที่ได้ในข้อมูลสำรอง"
+"แต่ละรายการ"
 
 #: templates/restore.html:81
 msgid "Original location"
@@ -2240,7 +2242,7 @@ msgstr "ค้นหาไฟล์"
 
 #: scripts/services/AppUtils.js:98 templates/settings.html:49
 msgid "Seconds"
-msgstr "ที่2"
+msgstr "วินาที"
 
 #: templates/log.html:30
 msgid "Select a log level and see messages as they happen:"
