@@ -487,7 +487,7 @@ msgstr "คอมพิวเตอร์"
 
 #: templates/import.html:9
 msgid "Configuration file:"
-msgstr "ไฟล์การกำหนดค่า:"
+msgstr "การกำหนดค่าไฟล์:"
 
 #: templates/home.html:29
 msgid "Configuration:"
@@ -1293,7 +1293,7 @@ msgstr "ซ่อน"
 
 #: templates/backends/file.html:15 templates/restore.html:98
 msgid "Hide hidden folders"
-msgstr "ซ่อนโฟลเดอร์ที่ถูกซ่อน"
+msgstr "ซ่อนโฟลเดอร์ที่ซ่อนอยู่"
 
 #: index.html:219 scripts/services/AppUtils.js:62
 msgid "Home"
@@ -1411,7 +1411,7 @@ msgstr "นำเข้าจากแฟ้ม"
 
 #: templates/import.html:19
 msgid "Import metadata"
-msgstr ""
+msgstr "นำเข้า metadata"
 
 #: templates/import.html:35
 msgid "Importing …"
@@ -1528,7 +1528,7 @@ msgstr "สด"
 
 #: templates/addwizard.html:16
 msgid "Load a configuration from an exported job or a storage provider"
-msgstr ""
+msgstr "โหลดการกำหนดค่าจากงานที่ส่งออกหรือผู้ให้บริการพื้นที่จัดเก็บ"
 
 #: templates/restorewizard.html:16
 msgid "Load destination from an exported job or a storage provider"
@@ -1609,7 +1609,7 @@ msgstr "การบำรุงรักษา"
 
 #: templates/backends/file.html:19 templates/restore.html:102
 msgid "Manually type path"
-msgstr ""
+msgstr "พิมพ์ path เองโดยตรง"
 
 #: templates/throttle.html:15
 msgid "Max download speed"
@@ -1696,7 +1696,7 @@ msgstr ""
 
 #: templates/addoredit.html:39
 msgid "Name"
-msgstr ""
+msgstr "ชื่อ"
 
 #: templates/home.html:60
 msgid "Never"
@@ -2086,7 +2086,7 @@ msgstr "กำลังซ่อมแซมฐานข้อมูล ..."
 
 #: templates/addoredit.html:62
 msgid "Repeat Passphrase"
-msgstr ""
+msgstr "ใส่ Passphrase อีกครั้ง"
 
 #: templates/home.html:45
 msgid "Reporting:"
