@@ -1,7 +1,7 @@
 backupApp.service('BrandingService', function () {
 
     var state = {
-        'appName': 'Araka',
+        'appName': 'Arak',
         'appSubtitle': null,
         'appLogoPath': '../img/logo.png'
     };

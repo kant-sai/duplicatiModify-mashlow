@@ -921,7 +921,7 @@ msgstr "แก้ไขตามรายการ"
 #: templates/addoredit.html:177 templates/addoredit.html:390
 #: templates/edituri.html:42 templates/settings.html:159
 msgid "Edit as text"
-msgstr "แก้ไขเป็นข้อความ"
+msgstr "แก้ไขแบบข้อความ"
 
 #: templates/home.html:31
 msgid "Edit …"
@@ -1532,7 +1532,7 @@ msgstr "โหลดการกำหนดค่าจากงานที่
 
 #: templates/restorewizard.html:16
 msgid "Load destination from an exported job or a storage provider"
-msgstr ""
+msgstr "โหลดปลายทางจากงานที่ส่งออกหรือผู้ให้บริการพื้นที่จัดเก็บ"
 
 #: templates/backuplog.html:26 templates/backuplog.html:44
 #: templates/log.html:24
@@ -1589,7 +1589,7 @@ msgstr ""
 
 #: templates/log.html:3
 msgid "Log data from the server"
-msgstr ""
+msgstr "ข้อมูล log จากเซิร์ฟเวอร์"
 
 #: index.html:237
 msgid "Log out"
@@ -1968,7 +1968,7 @@ msgstr "เลือกสถานที่"
 
 #: templates/restorewizard.html:10
 msgid "Point to your backup files and restore from there"
-msgstr ""
+msgstr "เลือกไฟล์ backup ของคุณและใช้มันเพื่อกู้คืนข้อมูล"
 
 #: templates/backends/generic.html:9
 msgid "Port"
@@ -2058,7 +2058,7 @@ msgstr ""
 
 #: templates/addoredit.html:307
 msgid "Remote volume size"
-msgstr ""
+msgstr "ควบคุมขนาดของปริมาณข้อมูล"
 
 #: templates/addoredit.html:203
 msgid "Remove"
@@ -2126,7 +2126,7 @@ msgstr "กู้คืนจากการกำหนดค่าการส
 
 #: templates/restorewizard.html:15
 msgid "Restore from configuration ..."
-msgstr "กู้คืนจากการกำหนดค่า ..."
+msgstr "กู้คืนจากที่กำหนดค่าไว้ ..."
 
 #: templates/restore.html:24 templates/restore.html:39
 #: templates/restore.html:76 templates/restoredirect.html:24
@@ -2734,14 +2734,14 @@ msgstr "หากต้องการส่งออกโดยไม่มี
 
 #: templates/settings.html:23
 msgid ""
-"To prevent various DNS based attacks, Araka limits the allowed hostnames"
+"To prevent various DNS based attacks, Arak limits the allowed hostnames"
 " to the ones listed here. Direct IP access and localhost is always allowed. "
 "Multiple hostnames can be supplied with a semicolon separator. If any of the"
 " allowed hostnames is an asterisk (*), all hostnames are allowed and this "
 "feature is disabled. If the field is empty, only IP address and localhost "
 "access is allowed."
 msgstr ""
-"เพื่อป้องกันการโจมตีตาม DNS ต่างๆ Araka จำกัดชื่อโฮสต์ที่อนุญาตให้เข้าถึง"
+"เพื่อป้องกันการโจมตีตาม DNS ต่างๆ Arak จำกัดชื่อโฮสต์ที่อนุญาตให้เข้าถึง"
 "กับรายการที่นี่ โดยอนุญาตการเข้าถึง IP และ localhost โดยตรงเสมอ "
 "ชื่อโฮสต์หลายชื่อสามารถใช้คั่นด้วยเครื่องหมายอัฒภาค(;) หากมี"
 "ชื่อโฮสต์ที่อนุญาตคือเครื่องหมายดอกจัน (*) ชื่อโฮสต์ทั้งหมดที่ได้รับอนุญาตและ"
